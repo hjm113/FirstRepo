@@ -1,8 +1,0 @@
-prefix=/home/jeong/catkin_ws/devel
-
-Name: srl_dstar_lite
-Description: Description of srl_dstar_lite
-Version: 0.0.1
-Cflags: 
-Libs: -L${prefix}/lib -lsrl_dstar_lite
-Requires: geometry_msgs nav_core nav_msgs roscpp rospy std_msgs tf visualization_msgs costmap_2d pluginlib
